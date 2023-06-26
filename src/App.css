@@ -37,11 +37,11 @@
   }
 }
 .MyHeader {
-  background-color: lightsteelblue;
+  background-color: cornflowerblue;
   text-align: center;
 }
 .MyFooter {
-  background-color: darkslategray;
+  background-color: rgb(11, 188, 242);
   color: white;
   text-align: center;
 }
